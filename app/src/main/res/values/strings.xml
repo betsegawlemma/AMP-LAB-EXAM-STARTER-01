@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Starter Project One</string>
+
+    <string name="content_one">Content One</string>
+    <string name="content_two">Content Two</string>
+    <string name="content_three">Content Three</string>
+    <string name="label_one">Label One</string>
+    <string name="label_two">Label Two</string>
+    <string name="label_three">Label Three</string>
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
+    <string name="search_button">Search</string>
+    <string name="search_hint">Search by content one</string>
+
+</resources>
